@@ -1,0 +1,34 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local proxy input files - do not commit real proxy lists
+proxy.txt
+proxy
+out.txt
+
+# Generated output files
+fast_out.txt
+speed_details.txt
+bad.txt
+*.tmp
+
+# Logs
+*.log
