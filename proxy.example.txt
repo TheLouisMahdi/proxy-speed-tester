@@ -1,0 +1,8 @@
+# Example proxy list
+# Copy this file to proxy.txt and replace these examples with your own authorized proxies.
+# Do not commit real proxy lists to GitHub.
+
+203.0.113.10:8080
+198.51.100.25:3128
+192.0.2.50.8000
+http://203.0.113.20:8888
